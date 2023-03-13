@@ -5,7 +5,7 @@ As someone who is always focused on improving my skills, I became a System Analy
 I am currently learning Python and C.
 
 
-![iamjrbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjrbro&show_icons=true&theme=dark)
+![iamjrbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjrbro&show_icons=true&theme=merko)
                             
 
 
