@@ -5,22 +5,10 @@ As someone who is always focused on improving my skills, I became a System Analy
 I am currently learning Python and C.
 
 
-[![LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]](https://www.linkedin.com/in/juliaoribeiro/)[![LinkTree(https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)]](https: //linktr.ee/iamjrbro) [ [Instagram(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]](http://instagram.com/iamjrbro/)[[dev.to(https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]](https://dev.to/iamjrbro)
- 
-
 ![iamjrbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjrbro&show_icons=true&theme=radical)
                             
 
-### Techs used by me
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python" scr=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
-</div>    
-                            
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="C" scr=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white />
-</div> 
 
 <!--
 **iamjrbro/iamjrbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
