@@ -11,6 +11,16 @@ I am currently learning Python and C.
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/iamjrbro)
 
 
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div>    
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div>
+
+
 ![iamjrbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjrbro&show_icons=true&theme=tokyonight)
                             
 
