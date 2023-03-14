@@ -5,7 +5,6 @@ As someone who is always focused on improving my skills, I became a System Analy
 I am currently learning Python and C.
 
 
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>    <div style="display: inline_block"><br/> <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -21,6 +20,8 @@ I am currently learning Python and C.
 ![iamjrbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjrbro&show_icons=true&theme=tokyonight)
                             
 
+
+![snake gif](https://github.com/<iamjrbro>/<iamjrbro>/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
