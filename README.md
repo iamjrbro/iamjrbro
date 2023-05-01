@@ -1,8 +1,8 @@
 ### Hi there, I´m Julia 👋
 
-I'm 19 years old who started studying everything related to technology about 1 year ago. During this period I´ve learn to work with analysis and development, especially in Microsoft and Google-related services. 
-As someone who is always focused on improving my skills, I became a System Analysis and Development's student and am in the first period of college.
-I am currently learning Python and C.
+I'm 19 years old, Systems Analysis and Development and Administration Technician´s student.
+Learning Python and C Language.
+As someone who is always focused on improving my skills, I am curious, adaptable and easygoing. I am always willing to learn and embark on new challenges.
 
 
 <div style="displayflex: inline_block"><br/>
