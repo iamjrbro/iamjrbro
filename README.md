@@ -1,9 +1,12 @@
-### Hi there, I´m Julia 👋
+### Hi there, I´m Julia and 19 years old 👋
 
-I'm 19 years old, Systems Analysis and Development and Administration Technician´s student.
-Learning Python and C Language.
-As someone who is always focused on improving my skills, I am curious, adaptable and easygoing. I am always willing to learn and embark on new challenges.
+I'm an Analysis and Systems Development´s student and also in Administration Technician.
+I'm currently learning Python and C language.
+For approximately a year, Ive been seeking to enhance my knowledge in the technology field. Therefore, I´ve  taken some courses, enrolled in a bachelor's program in Analysis and Systems Development, and continue to strive for improvement in this area.
+As someone who is always focused on enhancing my skills, I am curious, adaptable, flexible and easygoing. I am always willing to learn and take on new challenges.
 
+Certification:
+FCE (Advanced English - Level B2)
 
 <div style="displayflex: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
