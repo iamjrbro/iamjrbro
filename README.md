@@ -1,4 +1,4 @@
-### Hi there, I´m Julia and 19 years old 👋
+### Hi there 👋
 
 I'm an Analysis and Systems Development´s student and also in Administration Technician.
 I'm currently learning Python and C language.
