@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-I'm an Analysis and Systems Development´s student and also in Administration Technician.
-I'm currently learning Python and C language.
-For approximately a year, Ive been seeking to enhance my knowledge in the technology field. Therefore, I´ve  taken some courses, enrolled in a bachelor's program in Analysis and Systems Development, and continue to strive for improvement in this area.
-As someone who is always focused on enhancing my skills, I am curious, adaptable, flexible and easygoing. I am always willing to learn and take on new challenges.
+I'm a student of Systems Analysis and Development, and I have been developing my skills in Python and C programming languages. Throughout the past year, I have actively sought opportunities to expand my knowledge in the technology field. This pursuit led me to pursue a degree in Systems Analysis and Development and complete various relevant courses. Always focused on improving my skills, I stay up-to-date with the latest advancements in this constantly evolving field.
 
 Certification:
-FCE (Advanced English - Level B2)
+FCE (First Certificate in English - Advanced Level B2)
 
 <div style="displayflex: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
