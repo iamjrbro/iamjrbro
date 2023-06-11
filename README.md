@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-I'm a student of Systems Analysis and Development, and I have been developing my skills in Python and C programming languages. Throughout the past year, I have actively sought opportunities to expand my knowledge in the technology field. This pursuit led me to pursue a degree in Systems Analysis and Development and complete various relevant courses. Always focused on improving my skills, I stay up-to-date with the latest advancements in this constantly evolving field.
+Hello, welcome to my profile!
+
+I am a Analysis and Systems Development,´s student, who is passionate about technology, and constantly seeking knowledge. My goal is to build a solid career in the programming field and contribute to the development of innovative solutions.
+
+Currently, I am focused on enhancing my skills in two essential programming languages: Python and C. I have been dedicated to exploring the features and syntax of these languages.
+
+Always focused on improving my skills, I am a proactive person who constantly seeks challenges to expand my technical abilities and learn from new experiences. I am motivated by solving complex problems and I am always willing to take on challenges that allow me to grow professionally and personally.
+
+I am open to internship opportunities and collaboration on projects related to analysis and systems development. I am interested in gaining practical experience, working in a team, and contributing my knowledge in Python and C to create efficient and scalable solutions.
+
+If you are interested in connecting and discussing collaboration opportunities, I am available to exchange ideas and share knowledge.
 
 Certification:
-FCE (First Certificate in English - Advanced Level B2)
+FCE (Advanced English - Level B2)
 
 <div style="displayflex: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
