@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-Hello, welcome to my profile!
+I'm an Analysis and Systems Development´s student, passionate about technology, and constantly seeking knowledge. My goal is to build a solid career in the programming field and contribute to the development of innovative solutions.
 
-I am a Analysis and Systems Development,´s student, who is passionate about technology, and constantly seeking knowledge. My goal is to build a solid career in the programming field and contribute to the development of innovative solutions.
+Always focused on improving my skills, I am a proactive person who constantly seeks challenges to expand my technical abilities and learn from new experiences. Motivated by solving complex problems, I am always willing to face challenges that allow me to grow professionally and personally.
 
-Currently, I am focused on enhancing my skills in two essential programming languages: Python and C. I have been dedicated to exploring the features and syntax of these languages.
-
-Always focused on improving my skills, I am a proactive person who constantly seeks challenges to expand my technical abilities and learn from new experiences. I am motivated by solving complex problems and I am always willing to take on challenges that allow me to grow professionally and personally.
-
-I am open to internship opportunities and collaboration on projects related to analysis and systems development. I am interested in gaining practical experience, working in a team, and contributing my knowledge in Python and C to create efficient and scalable solutions.
+I am open to internship opportunities and collaboration on projects related to analysis and systems development. I am interested in gaining practical experience, working in teams, and leveraging my knowledge in Python and C to create efficient and scalable solutions.
 
 If you are interested in connecting and discussing collaboration opportunities, I am available to exchange ideas and share knowledge.
 
