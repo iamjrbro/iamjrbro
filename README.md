@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm an Analysis and Systems Development´s student, passionate about technology, and constantly seeking knowledge. 
+I'm an Analysis and Systems Development´s student, passionate about technology, and constantly seeking knowledge. Always focused on improving my skills, I am a proactive person who constantly seeks challenges to expand my technical abilities and learn from new experiences. Motivated by solving complex problems, I am always willing to face challenges that allow me to grow professionally and personally.
 
-Always focused on improving my skills, I am a proactive person who constantly seeks challenges to expand my technical abilities and learn from new experiences. Motivated by solving complex problems, I am always willing to face challenges that allow me to grow professionally and personally. I am open to internship opportunities and collaboration on projects related to analysis and systems development. I am interested in gaining practical experience, working in teams, and leveraging my knowledge.
+I am open to internship opportunities and collaboration on projects related to analysis and systems development. I am interested in gaining practical experience, working in teams, and leveraging my knowledge.
 
 If you are interested in connecting and discussing collaboration opportunities, I am available to exchange ideas and share knowledge.
 
