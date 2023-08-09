@@ -2,6 +2,9 @@
 
 <p>Analysis and Systems Development's student</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaoribeiro/)
+[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/iamjrbro)
+
 <h2 align="left">I´m currently learning</h2>
 
 <div align="left">
@@ -18,10 +21,3 @@
   ###
   
 ![iamjrbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjrbro&show_icons=true&theme=tokyonight)
-                            
-
-  <div align="left">
-
-    <link rel="link" href="https://www.linkedin.com/in/juliaoribeiro/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></link>
-
-  </div>  
