@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Júlia%20Ribeiro&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%26%20Engineer%20☁️&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Julia%20Ribeiro&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%26%20Engineer%20☁️&descAlignY=58&descSize=20" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Júlia%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaoribeiro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaoribeiro/)
 [![GitHub](https://img.shields.io/badge/GitHub-juliaoribeiro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliaoribeiro)
 
 </div>
@@ -83,7 +83,7 @@ fun_fact: "Projeto nuvens digitais e às vezes também escrevo JavaScript 😄"
 
 | 💼 LinkedIn | 🐙 GitHub |
 |:-----------:|:---------:|
-| [Júlia Ribeiro](https://www.linkedin.com/in/juliaoribeiro/) | [juliaoribeiro](https://github.com/iamjrbro) |
+| [Julia Ribeiro](https://www.linkedin.com/in/juliaoribeiro/) | [juliaoribeiro](https://github.com/iamjrbro) |
 
 </div>
 
