@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaoribeiro/)
-[![GitHub](https://img.shields.io/badge/GitHub-juliaoribeiro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliaoribeiro)
+[![GitHub](https://img.shields.io/badge/GitHub-iamjrbro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamjrbro)
 
 </div>
 
