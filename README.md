@@ -1,24 +1,21 @@
-Claro. Corrigi o README inteiro para refletir **Cloud + Identity & Access Management + Security**, incluindo sua **pós-graduação em Gestão de Identidade e Acesso**, mantendo a estética que você queria.
-
-````markdown
 <div align="center">
 
 ```text
-                         . . . . . . . . . . . . . . . .
-                    . . . . . . . . . . . . . . . . . . . . .
-                 . . . . . . . . . . . . . . . . . . . . . . . .
-              . . . . . . . . . . . . . . . . . . . . . . . . . .
-            . . . . . . . . . . . . . . . . . . . . . . . . . . .
-          . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-         . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-         . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-          . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-            . . . . . . . . . . . . . . . . . . . . . . . . . .
-              . . . . . . . . . . . . . . . . . . . . . . . .
-                 . . . . . . . . . . . . . . . . . . . . .
-                    . . . . . . . . . . . . . . . . . .
-                         . . . . . . . . . . . . .
+                       .-""""-.
+                    .-'        '-.
+                  .'              '.
+                 /                  \
+          .----./                    \.----.
+       .-'      '                    '      '-.
+     .'           \                  /           '.
+    /              '.              .'              \
+   ;                  '-.______.-'                  ;
+   |                                                  |
+   ;                                                  ;
+    \                                                /
+     '.                                            .'
+       '-.______________________________________.-'
+
 
 julia@cloud ──────────────────────────────────────────────────────────────
 │
@@ -38,9 +35,6 @@ julia@cloud ──────────────────────�
 │  ├─ AWS
 │  ├─ Microsoft Azure
 │  └─ Google Cloud Platform
-│
-│  Identity & Security:
-│  └─ Identity & Access Management
 │
 │  Infrastructure:
 │  ├─ Terraform
@@ -65,7 +59,9 @@ julia@cloud ──────────────────────�
 └─ Contact ───────────────────────────────────────────────────────────────
    ├─ LinkedIn: ............ linkedin.com/in/juliaoribeiro
    └─ GitHub: .............. github.com/iamjrbro
-````
+```
+
+</div>
 
 </div>
 
